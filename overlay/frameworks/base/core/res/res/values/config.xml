@@ -617,4 +617,7 @@
     <!-- Whether device has a notch -->
     <bool name="config_haveNotch">true</bool>
 
+    <!-- FOD Animations -->
+    <bool name="showFODAnimationPicker">true</bool>
+
 </resources>
